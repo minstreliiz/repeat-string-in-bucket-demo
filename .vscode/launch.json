@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Recursive",
+            "request": "launch",
+            "mainClass": "com.quiz.Recursive",
+            "projectName": "quiz"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "com.quiz.App",
+            "projectName": "quiz"
+        }
+    ]
+}
